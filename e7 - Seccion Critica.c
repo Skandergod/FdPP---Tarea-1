@@ -16,9 +16,11 @@ int main(int argc, char **argv)
 { long i=0;
   int gPrimesFound=0;
   double inicio = 0, fin = 0;
-  int start = atoi(argv[1]), end = atoi(argv[2]);
+  long start = 0, end = 0;
   int n;
 
+start = atoi(argv[1]);
+end = atoi(argv[2]);
 omp_set_num_threads(atoi(argv[3]));
 n = omp_get_max_threads();
 ThreadCalculus = (int*)malloc (sizeof (int) * n);
@@ -30,7 +32,8 @@ for (int i = 0; i < omp_get_max_threads(); i++)
 inicio = omp_get_wtime();
 #pragma omp parallel for shared(gPrimesFound)
   for (i = start; i <= end; i++)
-     { if (testForPrime(i))
+     { 
+        if (testForPrime(i))
         #pragma omp critical
         {
           gPrimesFound++;

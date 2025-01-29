@@ -14,9 +14,11 @@ int main(int argc, char **argv)
 { long i=0;
   int gPrimesFound=0;
   double inicio = 0, fin = 0;
-  int start = atoi(argv[1]), end = atoi(argv[2]);
+  long start = 0, end = 0;
   clock_t start_clocks, end_clocks;
 
+start = atoi(argv[1]); 
+end = atoi(argv[2]);
 start_clocks = (double) clock();
 #pragma omp parallel for 
   for (i = start; i <= end; i++)
