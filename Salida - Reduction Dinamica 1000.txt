@@ -1,0 +1,1519 @@
+e7 - Reduction Dinamica 1000.c
+number of primes between 1 and 1000000: 78499
+number of seconds passed 30.642000 seconds
+number of primes calculates by Thread 0, equals to 39278 primes
+number of primes calculates by Thread 1, equals to 39221 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 30.357000 seconds
+number of primes calculates by Thread 0, equals to 39240 primes
+number of primes calculates by Thread 1, equals to 39259 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 30.411000 seconds
+number of primes calculates by Thread 0, equals to 39270 primes
+number of primes calculates by Thread 1, equals to 39229 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 182.388000 seconds
+number of primes calculates by Thread 0, equals to 91554 primes
+number of primes calculates by Thread 1, equals to 91519 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 180.953000 seconds
+number of primes calculates by Thread 0, equals to 91477 primes
+number of primes calculates by Thread 1, equals to 91596 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 180.479000 seconds
+number of primes calculates by Thread 0, equals to 91625 primes
+number of primes calculates by Thread 1, equals to 91448 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 677.500000 seconds
+number of primes calculates by Thread 0, equals to 174041 primes
+number of primes calculates by Thread 1, equals to 174473 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 688.800000 seconds
+number of primes calculates by Thread 0, equals to 174345 primes
+number of primes calculates by Thread 1, equals to 174169 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 712.559000 seconds
+number of primes calculates by Thread 0, equals to 174382 primes
+number of primes calculates by Thread 1, equals to 174132 primes
+
+4 Hilos
+number of primes between 1 and 1000000: 78499
+number of seconds passed 16.880000 seconds
+number of primes calculates by Thread 0, equals to 19533 primes
+number of primes calculates by Thread 1, equals to 19552 primes
+number of primes calculates by Thread 2, equals to 20015 primes
+number of primes calculates by Thread 3, equals to 19399 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 17.061000 seconds
+number of primes calculates by Thread 0, equals to 19242 primes
+number of primes calculates by Thread 1, equals to 19573 primes
+number of primes calculates by Thread 2, equals to 19828 primes
+number of primes calculates by Thread 3, equals to 19856 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 17.348000 seconds
+number of primes calculates by Thread 0, equals to 19485 primes
+number of primes calculates by Thread 1, equals to 19957 primes
+number of primes calculates by Thread 2, equals to 19307 primes
+number of primes calculates by Thread 3, equals to 19750 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 109.217000 seconds
+number of primes calculates by Thread 0, equals to 45433 primes
+number of primes calculates by Thread 1, equals to 45432 primes
+number of primes calculates by Thread 2, equals to 46709 primes
+number of primes calculates by Thread 3, equals to 45499 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 111.339000 seconds
+number of primes calculates by Thread 0, equals to 45365 primes
+number of primes calculates by Thread 1, equals to 44987 primes
+number of primes calculates by Thread 2, equals to 46169 primes
+number of primes calculates by Thread 3, equals to 46552 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 110.725000 seconds
+number of primes calculates by Thread 0, equals to 45682 primes
+number of primes calculates by Thread 1, equals to 45650 primes
+number of primes calculates by Thread 2, equals to 46130 primes
+number of primes calculates by Thread 3, equals to 45611 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 431.150000 seconds
+number of primes calculates by Thread 0, equals to 86618 primes
+number of primes calculates by Thread 1, equals to 87031 primes
+number of primes calculates by Thread 2, equals to 87381 primes
+number of primes calculates by Thread 3, equals to 87484 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 427.636000 seconds
+number of primes calculates by Thread 0, equals to 87304 primes
+number of primes calculates by Thread 1, equals to 87759 primes
+number of primes calculates by Thread 2, equals to 86674 primes
+number of primes calculates by Thread 3, equals to 86777 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 411.231000 seconds
+number of primes calculates by Thread 0, equals to 87029 primes
+number of primes calculates by Thread 1, equals to 87317 primes
+number of primes calculates by Thread 2, equals to 87775 primes
+number of primes calculates by Thread 3, equals to 86393 primes
+
+8 Hilos
+number of primes between 1 and 1000000: 78499
+number of seconds passed 10.964000 seconds
+number of primes calculates by Thread 0, equals to 9826 primes
+number of primes calculates by Thread 1, equals to 9464 primes
+number of primes calculates by Thread 2, equals to 9658 primes
+number of primes calculates by Thread 3, equals to 10144 primes
+number of primes calculates by Thread 4, equals to 9847 primes
+number of primes calculates by Thread 5, equals to 10095 primes
+number of primes calculates by Thread 6, equals to 9820 primes
+number of primes calculates by Thread 7, equals to 9645 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 11.064000 seconds
+number of primes calculates by Thread 0, equals to 10039 primes
+number of primes calculates by Thread 1, equals to 10029 primes
+number of primes calculates by Thread 2, equals to 9901 primes
+number of primes calculates by Thread 3, equals to 9720 primes
+number of primes calculates by Thread 4, equals to 9397 primes
+number of primes calculates by Thread 5, equals to 9832 primes
+number of primes calculates by Thread 6, equals to 9879 primes
+number of primes calculates by Thread 7, equals to 9702 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 11.061000 seconds
+number of primes calculates by Thread 0, equals to 10067 primes
+number of primes calculates by Thread 1, equals to 9582 primes
+number of primes calculates by Thread 2, equals to 9771 primes
+number of primes calculates by Thread 3, equals to 10413 primes
+number of primes calculates by Thread 4, equals to 9575 primes
+number of primes calculates by Thread 5, equals to 9932 primes
+number of primes calculates by Thread 6, equals to 9675 primes
+number of primes calculates by Thread 7, equals to 9484 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 66.213000 seconds
+number of primes calculates by Thread 0, equals to 23179 primes
+number of primes calculates by Thread 1, equals to 22457 primes
+number of primes calculates by Thread 2, equals to 22852 primes
+number of primes calculates by Thread 3, equals to 22916 primes
+number of primes calculates by Thread 4, equals to 23230 primes
+number of primes calculates by Thread 5, equals to 22681 primes
+number of primes calculates by Thread 6, equals to 22967 primes
+number of primes calculates by Thread 7, equals to 22791 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 66.037000 seconds
+number of primes calculates by Thread 0, equals to 22682 primes
+number of primes calculates by Thread 1, equals to 21770 primes
+number of primes calculates by Thread 2, equals to 23414 primes
+number of primes calculates by Thread 3, equals to 22451 primes
+number of primes calculates by Thread 4, equals to 22710 primes
+number of primes calculates by Thread 5, equals to 23441 primes
+number of primes calculates by Thread 6, equals to 23695 primes
+number of primes calculates by Thread 7, equals to 22910 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 66.133000 seconds
+number of primes calculates by Thread 0, equals to 23550 primes
+number of primes calculates by Thread 1, equals to 22438 primes
+number of primes calculates by Thread 2, equals to 22625 primes
+number of primes calculates by Thread 3, equals to 22666 primes
+number of primes calculates by Thread 4, equals to 22487 primes
+number of primes calculates by Thread 5, equals to 23226 primes
+number of primes calculates by Thread 6, equals to 22995 primes
+number of primes calculates by Thread 7, equals to 23086 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 253.224000 seconds
+number of primes calculates by Thread 0, equals to 44345 primes
+number of primes calculates by Thread 1, equals to 43240 primes
+number of primes calculates by Thread 2, equals to 43627 primes
+number of primes calculates by Thread 3, equals to 43958 primes
+number of primes calculates by Thread 4, equals to 42476 primes
+number of primes calculates by Thread 5, equals to 43034 primes
+number of primes calculates by Thread 6, equals to 43524 primes
+number of primes calculates by Thread 7, equals to 44310 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 252.481000 seconds
+number of primes calculates by Thread 0, equals to 43965 primes
+number of primes calculates by Thread 1, equals to 43935 primes
+number of primes calculates by Thread 2, equals to 43586 primes
+number of primes calculates by Thread 3, equals to 43101 primes
+number of primes calculates by Thread 4, equals to 43489 primes
+number of primes calculates by Thread 5, equals to 42485 primes
+number of primes calculates by Thread 6, equals to 44131 primes
+number of primes calculates by Thread 7, equals to 43822 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 252.978000 seconds
+number of primes calculates by Thread 0, equals to 43125 primes
+number of primes calculates by Thread 1, equals to 43421 primes
+number of primes calculates by Thread 2, equals to 43496 primes
+number of primes calculates by Thread 3, equals to 44556 primes
+number of primes calculates by Thread 4, equals to 44148 primes
+number of primes calculates by Thread 5, equals to 42748 primes
+number of primes calculates by Thread 6, equals to 43389 primes
+number of primes calculates by Thread 7, equals to 43631 primes
+
+16 Hilos
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.528000 seconds
+number of primes calculates by Thread 0, equals to 4448 primes
+number of primes calculates by Thread 1, equals to 4483 primes
+number of primes calculates by Thread 2, equals to 4498 primes
+number of primes calculates by Thread 3, equals to 4527 primes
+number of primes calculates by Thread 4, equals to 5148 primes
+number of primes calculates by Thread 5, equals to 5328 primes
+number of primes calculates by Thread 6, equals to 5188 primes
+number of primes calculates by Thread 7, equals to 4940 primes
+number of primes calculates by Thread 8, equals to 5158 primes
+number of primes calculates by Thread 9, equals to 5386 primes
+number of primes calculates by Thread 10, equals to 5341 primes
+number of primes calculates by Thread 11, equals to 5308 primes
+number of primes calculates by Thread 12, equals to 5289 primes
+number of primes calculates by Thread 13, equals to 5156 primes
+number of primes calculates by Thread 14, equals to 4130 primes
+number of primes calculates by Thread 15, equals to 4171 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.528000 seconds
+number of primes calculates by Thread 0, equals to 4615 primes
+number of primes calculates by Thread 1, equals to 4918 primes
+number of primes calculates by Thread 2, equals to 5302 primes
+number of primes calculates by Thread 3, equals to 4848 primes
+number of primes calculates by Thread 4, equals to 4659 primes
+number of primes calculates by Thread 5, equals to 5275 primes
+number of primes calculates by Thread 6, equals to 4994 primes
+number of primes calculates by Thread 7, equals to 4846 primes
+number of primes calculates by Thread 8, equals to 4747 primes
+number of primes calculates by Thread 9, equals to 4890 primes
+number of primes calculates by Thread 10, equals to 5189 primes
+number of primes calculates by Thread 11, equals to 4649 primes
+number of primes calculates by Thread 12, equals to 5294 primes
+number of primes calculates by Thread 13, equals to 5002 primes
+number of primes calculates by Thread 14, equals to 4700 primes
+number of primes calculates by Thread 15, equals to 4571 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.515000 seconds
+number of primes calculates by Thread 0, equals to 5373 primes
+number of primes calculates by Thread 1, equals to 4298 primes
+number of primes calculates by Thread 2, equals to 4292 primes
+number of primes calculates by Thread 3, equals to 5380 primes
+number of primes calculates by Thread 4, equals to 4399 primes
+number of primes calculates by Thread 5, equals to 5300 primes
+number of primes calculates by Thread 6, equals to 4417 primes
+number of primes calculates by Thread 7, equals to 5136 primes
+number of primes calculates by Thread 8, equals to 4946 primes
+number of primes calculates by Thread 9, equals to 5496 primes
+number of primes calculates by Thread 10, equals to 5283 primes
+number of primes calculates by Thread 11, equals to 5029 primes
+number of primes calculates by Thread 12, equals to 5601 primes
+number of primes calculates by Thread 13, equals to 5485 primes
+number of primes calculates by Thread 14, equals to 4050 primes
+number of primes calculates by Thread 15, equals to 4014 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.659000 seconds
+number of primes calculates by Thread 0, equals to 14542 primes
+number of primes calculates by Thread 1, equals to 10118 primes
+number of primes calculates by Thread 2, equals to 13591 primes
+number of primes calculates by Thread 3, equals to 10573 primes
+number of primes calculates by Thread 4, equals to 14402 primes
+number of primes calculates by Thread 5, equals to 10894 primes
+number of primes calculates by Thread 6, equals to 10297 primes
+number of primes calculates by Thread 7, equals to 10112 primes
+number of primes calculates by Thread 8, equals to 14481 primes
+number of primes calculates by Thread 9, equals to 10646 primes
+number of primes calculates by Thread 10, equals to 10350 primes
+number of primes calculates by Thread 11, equals to 11606 primes
+number of primes calculates by Thread 12, equals to 10256 primes
+number of primes calculates by Thread 13, equals to 10304 primes
+number of primes calculates by Thread 14, equals to 10404 primes
+number of primes calculates by Thread 15, equals to 10497 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.607000 seconds
+number of primes calculates by Thread 0, equals to 12291 primes
+number of primes calculates by Thread 1, equals to 8591 primes
+number of primes calculates by Thread 2, equals to 12118 primes
+number of primes calculates by Thread 3, equals to 15249 primes
+number of primes calculates by Thread 4, equals to 15260 primes
+number of primes calculates by Thread 5, equals to 8919 primes
+number of primes calculates by Thread 6, equals to 8771 primes
+number of primes calculates by Thread 7, equals to 8772 primes
+number of primes calculates by Thread 8, equals to 12073 primes
+number of primes calculates by Thread 9, equals to 8850 primes
+number of primes calculates by Thread 10, equals to 15300 primes
+number of primes calculates by Thread 11, equals to 15189 primes
+number of primes calculates by Thread 12, equals to 8837 primes
+number of primes calculates by Thread 13, equals to 8887 primes
+number of primes calculates by Thread 14, equals to 12026 primes
+number of primes calculates by Thread 15, equals to 11940 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.568000 seconds
+number of primes calculates by Thread 0, equals to 9422 primes
+number of primes calculates by Thread 1, equals to 12361 primes
+number of primes calculates by Thread 2, equals to 12048 primes
+number of primes calculates by Thread 3, equals to 14241 primes
+number of primes calculates by Thread 4, equals to 12310 primes
+number of primes calculates by Thread 5, equals to 9290 primes
+number of primes calculates by Thread 6, equals to 9903 primes
+number of primes calculates by Thread 7, equals to 14226 primes
+number of primes calculates by Thread 8, equals to 9376 primes
+number of primes calculates by Thread 9, equals to 8971 primes
+number of primes calculates by Thread 10, equals to 12242 primes
+number of primes calculates by Thread 11, equals to 11932 primes
+number of primes calculates by Thread 12, equals to 14311 primes
+number of primes calculates by Thread 13, equals to 14353 primes
+number of primes calculates by Thread 14, equals to 9008 primes
+number of primes calculates by Thread 15, equals to 9079 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 212.247000 seconds
+number of primes calculates by Thread 0, equals to 21491 primes
+number of primes calculates by Thread 1, equals to 19113 primes
+number of primes calculates by Thread 2, equals to 21228 primes
+number of primes calculates by Thread 3, equals to 21307 primes
+number of primes calculates by Thread 4, equals to 23849 primes
+number of primes calculates by Thread 5, equals to 24112 primes
+number of primes calculates by Thread 6, equals to 22597 primes
+number of primes calculates by Thread 7, equals to 20671 primes
+number of primes calculates by Thread 8, equals to 20871 primes
+number of primes calculates by Thread 9, equals to 20803 primes
+number of primes calculates by Thread 10, equals to 24233 primes
+number of primes calculates by Thread 11, equals to 24238 primes
+number of primes calculates by Thread 12, equals to 20989 primes
+number of primes calculates by Thread 13, equals to 20936 primes
+number of primes calculates by Thread 14, equals to 20962 primes
+number of primes calculates by Thread 15, equals to 21114 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 211.705000 seconds
+number of primes calculates by Thread 0, equals to 17786 primes
+number of primes calculates by Thread 1, equals to 23333 primes
+number of primes calculates by Thread 2, equals to 17775 primes
+number of primes calculates by Thread 3, equals to 19037 primes
+number of primes calculates by Thread 4, equals to 26826 primes
+number of primes calculates by Thread 5, equals to 27095 primes
+number of primes calculates by Thread 6, equals to 23026 primes
+number of primes calculates by Thread 7, equals to 23380 primes
+number of primes calculates by Thread 8, equals to 17250 primes
+number of primes calculates by Thread 9, equals to 17459 primes
+number of primes calculates by Thread 10, equals to 23363 primes
+number of primes calculates by Thread 11, equals to 27043 primes
+number of primes calculates by Thread 12, equals to 23202 primes
+number of primes calculates by Thread 13, equals to 26974 primes
+number of primes calculates by Thread 14, equals to 17651 primes
+number of primes calculates by Thread 15, equals to 17314 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 211.497000 seconds
+number of primes calculates by Thread 0, equals to 18120 primes
+number of primes calculates by Thread 1, equals to 16840 primes
+number of primes calculates by Thread 2, equals to 17677 primes
+number of primes calculates by Thread 3, equals to 18022 primes
+number of primes calculates by Thread 4, equals to 18934 primes
+number of primes calculates by Thread 5, equals to 24792 primes
+number of primes calculates by Thread 6, equals to 24056 primes
+number of primes calculates by Thread 7, equals to 23845 primes
+number of primes calculates by Thread 8, equals to 21945 primes
+number of primes calculates by Thread 9, equals to 24462 primes
+number of primes calculates by Thread 10, equals to 24894 primes
+number of primes calculates by Thread 11, equals to 25971 primes
+number of primes calculates by Thread 12, equals to 25325 primes
+number of primes calculates by Thread 13, equals to 25038 primes
+number of primes calculates by Thread 14, equals to 20930 primes
+number of primes calculates by Thread 15, equals to 17663 primes
+
+20 Hilos
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.488000 seconds
+number of primes calculates by Thread 0, equals to 3840 primes
+number of primes calculates by Thread 1, equals to 3958 primes
+number of primes calculates by Thread 2, equals to 3897 primes
+number of primes calculates by Thread 3, equals to 3842 primes
+number of primes calculates by Thread 4, equals to 4441 primes
+number of primes calculates by Thread 5, equals to 4247 primes
+number of primes calculates by Thread 6, equals to 3607 primes
+number of primes calculates by Thread 7, equals to 3692 primes
+number of primes calculates by Thread 8, equals to 3607 primes
+number of primes calculates by Thread 9, equals to 3559 primes
+number of primes calculates by Thread 10, equals to 3799 primes
+number of primes calculates by Thread 11, equals to 4465 primes
+number of primes calculates by Thread 12, equals to 3887 primes
+number of primes calculates by Thread 13, equals to 3835 primes
+number of primes calculates by Thread 14, equals to 4334 primes
+number of primes calculates by Thread 15, equals to 3545 primes
+number of primes calculates by Thread 16, equals to 4169 primes
+number of primes calculates by Thread 17, equals to 4440 primes
+number of primes calculates by Thread 18, equals to 3658 primes
+number of primes calculates by Thread 19, equals to 3677 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.506000 seconds
+number of primes calculates by Thread 0, equals to 3544 primes
+number of primes calculates by Thread 1, equals to 4418 primes
+number of primes calculates by Thread 2, equals to 4468 primes
+number of primes calculates by Thread 3, equals to 3473 primes
+number of primes calculates by Thread 4, equals to 3133 primes
+number of primes calculates by Thread 5, equals to 3478 primes
+number of primes calculates by Thread 6, equals to 4477 primes
+number of primes calculates by Thread 7, equals to 4487 primes
+number of primes calculates by Thread 8, equals to 4354 primes
+number of primes calculates by Thread 9, equals to 4169 primes
+number of primes calculates by Thread 10, equals to 3432 primes
+number of primes calculates by Thread 11, equals to 3194 primes
+number of primes calculates by Thread 12, equals to 4305 primes
+number of primes calculates by Thread 13, equals to 4347 primes
+number of primes calculates by Thread 14, equals to 4492 primes
+number of primes calculates by Thread 15, equals to 4140 primes
+number of primes calculates by Thread 16, equals to 3176 primes
+number of primes calculates by Thread 17, equals to 3167 primes
+number of primes calculates by Thread 18, equals to 4127 primes
+number of primes calculates by Thread 19, equals to 4118 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.499000 seconds
+number of primes calculates by Thread 0, equals to 3976 primes
+number of primes calculates by Thread 1, equals to 3837 primes
+number of primes calculates by Thread 2, equals to 3951 primes
+number of primes calculates by Thread 3, equals to 3573 primes
+number of primes calculates by Thread 4, equals to 3751 primes
+number of primes calculates by Thread 5, equals to 3887 primes
+number of primes calculates by Thread 6, equals to 4026 primes
+number of primes calculates by Thread 7, equals to 3834 primes
+number of primes calculates by Thread 8, equals to 3793 primes
+number of primes calculates by Thread 9, equals to 4410 primes
+number of primes calculates by Thread 10, equals to 4487 primes
+number of primes calculates by Thread 11, equals to 3589 primes
+number of primes calculates by Thread 12, equals to 4404 primes
+number of primes calculates by Thread 13, equals to 4329 primes
+number of primes calculates by Thread 14, equals to 3612 primes
+number of primes calculates by Thread 15, equals to 3576 primes
+number of primes calculates by Thread 16, equals to 3624 primes
+number of primes calculates by Thread 17, equals to 3580 primes
+number of primes calculates by Thread 18, equals to 4084 primes
+number of primes calculates by Thread 19, equals to 4176 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.420000 seconds
+number of primes calculates by Thread 0, equals to 9313 primes
+number of primes calculates by Thread 1, equals to 8758 primes
+number of primes calculates by Thread 2, equals to 8544 primes
+number of primes calculates by Thread 3, equals to 8452 primes
+number of primes calculates by Thread 4, equals to 10203 primes
+number of primes calculates by Thread 5, equals to 8611 primes
+number of primes calculates by Thread 6, equals to 9198 primes
+number of primes calculates by Thread 7, equals to 9178 primes
+number of primes calculates by Thread 8, equals to 8942 primes
+number of primes calculates by Thread 9, equals to 10265 primes
+number of primes calculates by Thread 10, equals to 8528 primes
+number of primes calculates by Thread 11, equals to 8276 primes
+number of primes calculates by Thread 12, equals to 10306 primes
+number of primes calculates by Thread 13, equals to 10134 primes
+number of primes calculates by Thread 14, equals to 8964 primes
+number of primes calculates by Thread 15, equals to 8905 primes
+number of primes calculates by Thread 16, equals to 8287 primes
+number of primes calculates by Thread 17, equals to 8305 primes
+number of primes calculates by Thread 18, equals to 9943 primes
+number of primes calculates by Thread 19, equals to 9961 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.397000 seconds
+number of primes calculates by Thread 0, equals to 8936 primes
+number of primes calculates by Thread 1, equals to 7661 primes
+number of primes calculates by Thread 2, equals to 8645 primes
+number of primes calculates by Thread 3, equals to 8934 primes
+number of primes calculates by Thread 4, equals to 11940 primes
+number of primes calculates by Thread 5, equals to 12266 primes
+number of primes calculates by Thread 6, equals to 8696 primes
+number of primes calculates by Thread 7, equals to 7703 primes
+number of primes calculates by Thread 8, equals to 7745 primes
+number of primes calculates by Thread 9, equals to 8658 primes
+number of primes calculates by Thread 10, equals to 7785 primes
+number of primes calculates by Thread 11, equals to 12286 primes
+number of primes calculates by Thread 12, equals to 7782 primes
+number of primes calculates by Thread 13, equals to 7690 primes
+number of primes calculates by Thread 14, equals to 8624 primes
+number of primes calculates by Thread 15, equals to 8546 primes
+number of primes calculates by Thread 16, equals to 12108 primes
+number of primes calculates by Thread 17, equals to 12014 primes
+number of primes calculates by Thread 18, equals to 7510 primes
+number of primes calculates by Thread 19, equals to 7544 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.419000 seconds
+number of primes calculates by Thread 0, equals to 10379 primes
+number of primes calculates by Thread 1, equals to 8718 primes
+number of primes calculates by Thread 2, equals to 8912 primes
+number of primes calculates by Thread 3, equals to 8839 primes
+number of primes calculates by Thread 4, equals to 10048 primes
+number of primes calculates by Thread 5, equals to 10275 primes
+number of primes calculates by Thread 6, equals to 8873 primes
+number of primes calculates by Thread 7, equals to 8816 primes
+number of primes calculates by Thread 8, equals to 8813 primes
+number of primes calculates by Thread 9, equals to 8546 primes
+number of primes calculates by Thread 10, equals to 8813 primes
+number of primes calculates by Thread 11, equals to 10240 primes
+number of primes calculates by Thread 12, equals to 8706 primes
+number of primes calculates by Thread 13, equals to 8838 primes
+number of primes calculates by Thread 14, equals to 8527 primes
+number of primes calculates by Thread 15, equals to 8501 primes
+number of primes calculates by Thread 16, equals to 9980 primes
+number of primes calculates by Thread 17, equals to 9873 primes
+number of primes calculates by Thread 18, equals to 8774 primes
+number of primes calculates by Thread 19, equals to 8602 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 211.146000 seconds
+number of primes calculates by Thread 0, equals to 13687 primes
+number of primes calculates by Thread 1, equals to 13610 primes
+number of primes calculates by Thread 2, equals to 13240 primes
+number of primes calculates by Thread 3, equals to 13224 primes
+number of primes calculates by Thread 4, equals to 13508 primes
+number of primes calculates by Thread 5, equals to 14905 primes
+number of primes calculates by Thread 6, equals to 19445 primes
+number of primes calculates by Thread 7, equals to 19240 primes
+number of primes calculates by Thread 8, equals to 22275 primes
+number of primes calculates by Thread 9, equals to 13356 primes
+number of primes calculates by Thread 10, equals to 22238 primes
+number of primes calculates by Thread 11, equals to 22119 primes
+number of primes calculates by Thread 12, equals to 19408 primes
+number of primes calculates by Thread 13, equals to 19367 primes
+number of primes calculates by Thread 14, equals to 13298 primes
+number of primes calculates by Thread 15, equals to 13275 primes
+number of primes calculates by Thread 16, equals to 21978 primes
+number of primes calculates by Thread 17, equals to 21836 primes
+number of primes calculates by Thread 18, equals to 19307 primes
+number of primes calculates by Thread 19, equals to 19198 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 211.385000 seconds
+number of primes calculates by Thread 0, equals to 19623 primes
+number of primes calculates by Thread 1, equals to 14624 primes
+number of primes calculates by Thread 2, equals to 19294 primes
+number of primes calculates by Thread 3, equals to 19354 primes
+number of primes calculates by Thread 4, equals to 19563 primes
+number of primes calculates by Thread 5, equals to 19340 primes
+number of primes calculates by Thread 6, equals to 14686 primes
+number of primes calculates by Thread 7, equals to 14758 primes
+number of primes calculates by Thread 8, equals to 19258 primes
+number of primes calculates by Thread 9, equals to 19037 primes
+number of primes calculates by Thread 10, equals to 14591 primes
+number of primes calculates by Thread 11, equals to 19406 primes
+number of primes calculates by Thread 12, equals to 14683 primes
+number of primes calculates by Thread 13, equals to 14537 primes
+number of primes calculates by Thread 14, equals to 19150 primes
+number of primes calculates by Thread 15, equals to 19055 primes
+number of primes calculates by Thread 16, equals to 19258 primes
+number of primes calculates by Thread 17, equals to 19208 primes
+number of primes calculates by Thread 18, equals to 14620 primes
+number of primes calculates by Thread 19, equals to 14469 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 211.479000 seconds
+number of primes calculates by Thread 0, equals to 25920 primes
+number of primes calculates by Thread 1, equals to 13735 primes
+number of primes calculates by Thread 2, equals to 25534 primes
+number of primes calculates by Thread 3, equals to 16871 primes
+number of primes calculates by Thread 4, equals to 16715 primes
+number of primes calculates by Thread 5, equals to 13960 primes
+number of primes calculates by Thread 6, equals to 18395 primes
+number of primes calculates by Thread 7, equals to 13892 primes
+number of primes calculates by Thread 8, equals to 25525 primes
+number of primes calculates by Thread 9, equals to 16702 primes
+number of primes calculates by Thread 10, equals to 13911 primes
+number of primes calculates by Thread 11, equals to 13969 primes
+number of primes calculates by Thread 12, equals to 13897 primes
+number of primes calculates by Thread 13, equals to 16831 primes
+number of primes calculates by Thread 14, equals to 16721 primes
+number of primes calculates by Thread 15, equals to 25576 primes
+number of primes calculates by Thread 16, equals to 16457 primes
+number of primes calculates by Thread 17, equals to 16511 primes
+number of primes calculates by Thread 18, equals to 13678 primes
+number of primes calculates by Thread 19, equals to 13714 primes
+
+100 Hilos
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.460000 seconds
+number of primes calculates by Thread 0, equals to 895 primes
+number of primes calculates by Thread 1, equals to 1046 primes
+number of primes calculates by Thread 2, equals to 819 primes
+number of primes calculates by Thread 3, equals to 671 primes
+number of primes calculates by Thread 4, equals to 787 primes
+number of primes calculates by Thread 5, equals to 871 primes
+number of primes calculates by Thread 6, equals to 968 primes
+number of primes calculates by Thread 7, equals to 1014 primes
+number of primes calculates by Thread 8, equals to 895 primes
+number of primes calculates by Thread 9, equals to 714 primes
+number of primes calculates by Thread 10, equals to 994 primes
+number of primes calculates by Thread 11, equals to 875 primes
+number of primes calculates by Thread 12, equals to 927 primes
+number of primes calculates by Thread 13, equals to 951 primes
+number of primes calculates by Thread 14, equals to 724 primes
+number of primes calculates by Thread 15, equals to 718 primes
+number of primes calculates by Thread 16, equals to 1018 primes
+number of primes calculates by Thread 17, equals to 900 primes
+number of primes calculates by Thread 18, equals to 1001 primes
+number of primes calculates by Thread 19, equals to 790 primes
+number of primes calculates by Thread 20, equals to 718 primes
+number of primes calculates by Thread 21, equals to 708 primes
+number of primes calculates by Thread 22, equals to 804 primes
+number of primes calculates by Thread 23, equals to 748 primes
+number of primes calculates by Thread 24, equals to 756 primes
+number of primes calculates by Thread 25, equals to 758 primes
+number of primes calculates by Thread 26, equals to 709 primes
+number of primes calculates by Thread 27, equals to 728 primes
+number of primes calculates by Thread 28, equals to 761 primes
+number of primes calculates by Thread 29, equals to 765 primes
+number of primes calculates by Thread 30, equals to 803 primes
+number of primes calculates by Thread 31, equals to 806 primes
+number of primes calculates by Thread 32, equals to 721 primes
+number of primes calculates by Thread 33, equals to 689 primes
+number of primes calculates by Thread 34, equals to 770 primes
+number of primes calculates by Thread 35, equals to 792 primes
+number of primes calculates by Thread 36, equals to 790 primes
+number of primes calculates by Thread 37, equals to 771 primes
+number of primes calculates by Thread 38, equals to 688 primes
+number of primes calculates by Thread 39, equals to 703 primes
+number of primes calculates by Thread 40, equals to 780 primes
+number of primes calculates by Thread 41, equals to 785 primes
+number of primes calculates by Thread 42, equals to 795 primes
+number of primes calculates by Thread 43, equals to 763 primes
+number of primes calculates by Thread 44, equals to 703 primes
+number of primes calculates by Thread 45, equals to 737 primes
+number of primes calculates by Thread 46, equals to 765 primes
+number of primes calculates by Thread 47, equals to 829 primes
+number of primes calculates by Thread 48, equals to 776 primes
+number of primes calculates by Thread 49, equals to 796 primes
+number of primes calculates by Thread 50, equals to 703 primes
+number of primes calculates by Thread 51, equals to 729 primes
+number of primes calculates by Thread 52, equals to 793 primes
+number of primes calculates by Thread 53, equals to 796 primes
+number of primes calculates by Thread 54, equals to 770 primes
+number of primes calculates by Thread 55, equals to 773 primes
+number of primes calculates by Thread 56, equals to 700 primes
+number of primes calculates by Thread 57, equals to 715 primes
+number of primes calculates by Thread 58, equals to 761 primes
+number of primes calculates by Thread 59, equals to 788 primes
+number of primes calculates by Thread 60, equals to 778 primes
+number of primes calculates by Thread 61, equals to 785 primes
+number of primes calculates by Thread 62, equals to 716 primes
+number of primes calculates by Thread 63, equals to 709 primes
+number of primes calculates by Thread 64, equals to 769 primes
+number of primes calculates by Thread 65, equals to 740 primes
+number of primes calculates by Thread 66, equals to 784 primes
+number of primes calculates by Thread 67, equals to 828 primes
+number of primes calculates by Thread 68, equals to 769 primes
+number of primes calculates by Thread 69, equals to 699 primes
+number of primes calculates by Thread 70, equals to 772 primes
+number of primes calculates by Thread 71, equals to 810 primes
+number of primes calculates by Thread 72, equals to 810 primes
+number of primes calculates by Thread 73, equals to 764 primes
+number of primes calculates by Thread 74, equals to 717 primes
+number of primes calculates by Thread 75, equals to 752 primes
+number of primes calculates by Thread 76, equals to 799 primes
+number of primes calculates by Thread 77, equals to 777 primes
+number of primes calculates by Thread 78, equals to 760 primes
+number of primes calculates by Thread 79, equals to 842 primes
+number of primes calculates by Thread 80, equals to 692 primes
+number of primes calculates by Thread 81, equals to 708 primes
+number of primes calculates by Thread 82, equals to 750 primes
+number of primes calculates by Thread 83, equals to 770 primes
+number of primes calculates by Thread 84, equals to 819 primes
+number of primes calculates by Thread 85, equals to 789 primes
+number of primes calculates by Thread 86, equals to 769 primes
+number of primes calculates by Thread 87, equals to 692 primes
+number of primes calculates by Thread 88, equals to 758 primes
+number of primes calculates by Thread 89, equals to 786 primes
+number of primes calculates by Thread 90, equals to 822 primes
+number of primes calculates by Thread 91, equals to 759 primes
+number of primes calculates by Thread 92, equals to 763 primes
+number of primes calculates by Thread 93, equals to 710 primes
+number of primes calculates by Thread 94, equals to 807 primes
+number of primes calculates by Thread 95, equals to 798 primes
+number of primes calculates by Thread 96, equals to 769 primes
+number of primes calculates by Thread 97, equals to 787 primes
+number of primes calculates by Thread 98, equals to 786 primes
+number of primes calculates by Thread 99, equals to 762 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.484000 seconds
+number of primes calculates by Thread 0, equals to 780 primes
+number of primes calculates by Thread 1, equals to 775 primes
+number of primes calculates by Thread 2, equals to 1012 primes
+number of primes calculates by Thread 3, equals to 695 primes
+number of primes calculates by Thread 4, equals to 1071 primes
+number of primes calculates by Thread 5, equals to 870 primes
+number of primes calculates by Thread 6, equals to 797 primes
+number of primes calculates by Thread 7, equals to 777 primes
+number of primes calculates by Thread 8, equals to 944 primes
+number of primes calculates by Thread 9, equals to 855 primes
+number of primes calculates by Thread 10, equals to 764 primes
+number of primes calculates by Thread 11, equals to 968 primes
+number of primes calculates by Thread 12, equals to 822 primes
+number of primes calculates by Thread 13, equals to 765 primes
+number of primes calculates by Thread 14, equals to 911 primes
+number of primes calculates by Thread 15, equals to 807 primes
+number of primes calculates by Thread 16, equals to 977 primes
+number of primes calculates by Thread 17, equals to 789 primes
+number of primes calculates by Thread 18, equals to 738 primes
+number of primes calculates by Thread 19, equals to 781 primes
+number of primes calculates by Thread 20, equals to 748 primes
+number of primes calculates by Thread 21, equals to 788 primes
+number of primes calculates by Thread 22, equals to 866 primes
+number of primes calculates by Thread 23, equals to 792 primes
+number of primes calculates by Thread 24, equals to 806 primes
+number of primes calculates by Thread 25, equals to 717 primes
+number of primes calculates by Thread 26, equals to 764 primes
+number of primes calculates by Thread 27, equals to 667 primes
+number of primes calculates by Thread 28, equals to 848 primes
+number of primes calculates by Thread 29, equals to 872 primes
+number of primes calculates by Thread 30, equals to 778 primes
+number of primes calculates by Thread 31, equals to 733 primes
+number of primes calculates by Thread 32, equals to 772 primes
+number of primes calculates by Thread 33, equals to 787 primes
+number of primes calculates by Thread 34, equals to 777 primes
+number of primes calculates by Thread 35, equals to 774 primes
+number of primes calculates by Thread 36, equals to 1004 primes
+number of primes calculates by Thread 37, equals to 763 primes
+number of primes calculates by Thread 38, equals to 902 primes
+number of primes calculates by Thread 39, equals to 768 primes
+number of primes calculates by Thread 40, equals to 905 primes
+number of primes calculates by Thread 41, equals to 850 primes
+number of primes calculates by Thread 42, equals to 715 primes
+number of primes calculates by Thread 43, equals to 777 primes
+number of primes calculates by Thread 44, equals to 911 primes
+number of primes calculates by Thread 45, equals to 766 primes
+number of primes calculates by Thread 46, equals to 861 primes
+number of primes calculates by Thread 47, equals to 842 primes
+number of primes calculates by Thread 48, equals to 778 primes
+number of primes calculates by Thread 49, equals to 724 primes
+number of primes calculates by Thread 50, equals to 779 primes
+number of primes calculates by Thread 51, equals to 783 primes
+number of primes calculates by Thread 52, equals to 804 primes
+number of primes calculates by Thread 53, equals to 798 primes
+number of primes calculates by Thread 54, equals to 839 primes
+number of primes calculates by Thread 55, equals to 741 primes
+number of primes calculates by Thread 56, equals to 779 primes
+number of primes calculates by Thread 57, equals to 725 primes
+number of primes calculates by Thread 58, equals to 891 primes
+number of primes calculates by Thread 59, equals to 790 primes
+number of primes calculates by Thread 60, equals to 706 primes
+number of primes calculates by Thread 61, equals to 792 primes
+number of primes calculates by Thread 62, equals to 684 primes
+number of primes calculates by Thread 63, equals to 708 primes
+number of primes calculates by Thread 64, equals to 790 primes
+number of primes calculates by Thread 65, equals to 777 primes
+number of primes calculates by Thread 66, equals to 779 primes
+number of primes calculates by Thread 67, equals to 768 primes
+number of primes calculates by Thread 68, equals to 714 primes
+number of primes calculates by Thread 69, equals to 694 primes
+number of primes calculates by Thread 70, equals to 771 primes
+number of primes calculates by Thread 71, equals to 791 primes
+number of primes calculates by Thread 72, equals to 767 primes
+number of primes calculates by Thread 73, equals to 769 primes
+number of primes calculates by Thread 74, equals to 684 primes
+number of primes calculates by Thread 75, equals to 723 primes
+number of primes calculates by Thread 76, equals to 779 primes
+number of primes calculates by Thread 77, equals to 792 primes
+number of primes calculates by Thread 78, equals to 688 primes
+number of primes calculates by Thread 79, equals to 688 primes
+number of primes calculates by Thread 80, equals to 704 primes
+number of primes calculates by Thread 81, equals to 708 primes
+number of primes calculates by Thread 82, equals to 812 primes
+number of primes calculates by Thread 83, equals to 758 primes
+number of primes calculates by Thread 84, equals to 689 primes
+number of primes calculates by Thread 85, equals to 679 primes
+number of primes calculates by Thread 86, equals to 705 primes
+number of primes calculates by Thread 87, equals to 817 primes
+number of primes calculates by Thread 88, equals to 773 primes
+number of primes calculates by Thread 89, equals to 870 primes
+number of primes calculates by Thread 90, equals to 681 primes
+number of primes calculates by Thread 91, equals to 702 primes
+number of primes calculates by Thread 92, equals to 769 primes
+number of primes calculates by Thread 93, equals to 723 primes
+number of primes calculates by Thread 94, equals to 780 primes
+number of primes calculates by Thread 95, equals to 754 primes
+number of primes calculates by Thread 96, equals to 686 primes
+number of primes calculates by Thread 97, equals to 691 primes
+number of primes calculates by Thread 98, equals to 672 primes
+number of primes calculates by Thread 99, equals to 780 primes
+
+number of primes between 1 and 1000000: 78499
+number of seconds passed 9.475000 seconds
+number of primes calculates by Thread 0, equals to 985 primes
+number of primes calculates by Thread 1, equals to 981 primes
+number of primes calculates by Thread 2, equals to 789 primes
+number of primes calculates by Thread 3, equals to 977 primes
+number of primes calculates by Thread 4, equals to 1105 primes
+number of primes calculates by Thread 5, equals to 969 primes
+number of primes calculates by Thread 6, equals to 769 primes
+number of primes calculates by Thread 7, equals to 979 primes
+number of primes calculates by Thread 8, equals to 880 primes
+number of primes calculates by Thread 9, equals to 714 primes
+number of primes calculates by Thread 10, equals to 752 primes
+number of primes calculates by Thread 11, equals to 778 primes
+number of primes calculates by Thread 12, equals to 759 primes
+number of primes calculates by Thread 13, equals to 941 primes
+number of primes calculates by Thread 14, equals to 873 primes
+number of primes calculates by Thread 15, equals to 884 primes
+number of primes calculates by Thread 16, equals to 824 primes
+number of primes calculates by Thread 17, equals to 782 primes
+number of primes calculates by Thread 18, equals to 789 primes
+number of primes calculates by Thread 19, equals to 717 primes
+number of primes calculates by Thread 20, equals to 705 primes
+number of primes calculates by Thread 21, equals to 706 primes
+number of primes calculates by Thread 22, equals to 792 primes
+number of primes calculates by Thread 23, equals to 772 primes
+number of primes calculates by Thread 24, equals to 775 primes
+number of primes calculates by Thread 25, equals to 752 primes
+number of primes calculates by Thread 26, equals to 716 primes
+number of primes calculates by Thread 27, equals to 748 primes
+number of primes calculates by Thread 28, equals to 794 primes
+number of primes calculates by Thread 29, equals to 775 primes
+number of primes calculates by Thread 30, equals to 793 primes
+number of primes calculates by Thread 31, equals to 793 primes
+number of primes calculates by Thread 32, equals to 705 primes
+number of primes calculates by Thread 33, equals to 724 primes
+number of primes calculates by Thread 34, equals to 762 primes
+number of primes calculates by Thread 35, equals to 746 primes
+number of primes calculates by Thread 36, equals to 786 primes
+number of primes calculates by Thread 37, equals to 773 primes
+number of primes calculates by Thread 38, equals to 711 primes
+number of primes calculates by Thread 39, equals to 721 primes
+number of primes calculates by Thread 40, equals to 805 primes
+number of primes calculates by Thread 41, equals to 764 primes
+number of primes calculates by Thread 42, equals to 804 primes
+number of primes calculates by Thread 43, equals to 758 primes
+number of primes calculates by Thread 44, equals to 777 primes
+number of primes calculates by Thread 45, equals to 674 primes
+number of primes calculates by Thread 46, equals to 766 primes
+number of primes calculates by Thread 47, equals to 792 primes
+number of primes calculates by Thread 48, equals to 792 primes
+number of primes calculates by Thread 49, equals to 785 primes
+number of primes calculates by Thread 50, equals to 680 primes
+number of primes calculates by Thread 51, equals to 726 primes
+number of primes calculates by Thread 52, equals to 772 primes
+number of primes calculates by Thread 53, equals to 765 primes
+number of primes calculates by Thread 54, equals to 767 primes
+number of primes calculates by Thread 55, equals to 761 primes
+number of primes calculates by Thread 56, equals to 706 primes
+number of primes calculates by Thread 57, equals to 765 primes
+number of primes calculates by Thread 58, equals to 829 primes
+number of primes calculates by Thread 59, equals to 756 primes
+number of primes calculates by Thread 60, equals to 797 primes
+number of primes calculates by Thread 61, equals to 804 primes
+number of primes calculates by Thread 62, equals to 773 primes
+number of primes calculates by Thread 63, equals to 698 primes
+number of primes calculates by Thread 64, equals to 767 primes
+number of primes calculates by Thread 65, equals to 801 primes
+number of primes calculates by Thread 66, equals to 757 primes
+number of primes calculates by Thread 67, equals to 798 primes
+number of primes calculates by Thread 68, equals to 697 primes
+number of primes calculates by Thread 69, equals to 909 primes
+number of primes calculates by Thread 70, equals to 782 primes
+number of primes calculates by Thread 71, equals to 783 primes
+number of primes calculates by Thread 72, equals to 780 primes
+number of primes calculates by Thread 73, equals to 763 primes
+number of primes calculates by Thread 74, equals to 755 primes
+number of primes calculates by Thread 75, equals to 717 primes
+number of primes calculates by Thread 76, equals to 776 primes
+number of primes calculates by Thread 77, equals to 782 primes
+number of primes calculates by Thread 78, equals to 773 primes
+number of primes calculates by Thread 79, equals to 767 primes
+number of primes calculates by Thread 80, equals to 753 primes
+number of primes calculates by Thread 81, equals to 706 primes
+number of primes calculates by Thread 82, equals to 793 primes
+number of primes calculates by Thread 83, equals to 809 primes
+number of primes calculates by Thread 84, equals to 766 primes
+number of primes calculates by Thread 85, equals to 791 primes
+number of primes calculates by Thread 86, equals to 708 primes
+number of primes calculates by Thread 87, equals to 718 primes
+number of primes calculates by Thread 88, equals to 829 primes
+number of primes calculates by Thread 89, equals to 908 primes
+number of primes calculates by Thread 90, equals to 779 primes
+number of primes calculates by Thread 91, equals to 794 primes
+number of primes calculates by Thread 92, equals to 717 primes
+number of primes calculates by Thread 93, equals to 792 primes
+number of primes calculates by Thread 94, equals to 795 primes
+number of primes calculates by Thread 95, equals to 785 primes
+number of primes calculates by Thread 96, equals to 798 primes
+number of primes calculates by Thread 97, equals to 788 primes
+number of primes calculates by Thread 98, equals to 755 primes
+number of primes calculates by Thread 99, equals to 696 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.286000 seconds
+number of primes calculates by Thread 0, equals to 1806 primes
+number of primes calculates by Thread 1, equals to 1982 primes
+number of primes calculates by Thread 2, equals to 1728 primes
+number of primes calculates by Thread 3, equals to 1753 primes
+number of primes calculates by Thread 4, equals to 2010 primes
+number of primes calculates by Thread 5, equals to 1893 primes
+number of primes calculates by Thread 6, equals to 1818 primes
+number of primes calculates by Thread 7, equals to 1847 primes
+number of primes calculates by Thread 8, equals to 1810 primes
+number of primes calculates by Thread 9, equals to 1806 primes
+number of primes calculates by Thread 10, equals to 1881 primes
+number of primes calculates by Thread 11, equals to 2127 primes
+number of primes calculates by Thread 12, equals to 1793 primes
+number of primes calculates by Thread 13, equals to 1849 primes
+number of primes calculates by Thread 14, equals to 1767 primes
+number of primes calculates by Thread 15, equals to 1699 primes
+number of primes calculates by Thread 16, equals to 1889 primes
+number of primes calculates by Thread 17, equals to 1861 primes
+number of primes calculates by Thread 18, equals to 1822 primes
+number of primes calculates by Thread 19, equals to 1831 primes
+number of primes calculates by Thread 20, equals to 1736 primes
+number of primes calculates by Thread 21, equals to 1819 primes
+number of primes calculates by Thread 22, equals to 1905 primes
+number of primes calculates by Thread 23, equals to 1937 primes
+number of primes calculates by Thread 24, equals to 1827 primes
+number of primes calculates by Thread 25, equals to 1799 primes
+number of primes calculates by Thread 26, equals to 1907 primes
+number of primes calculates by Thread 27, equals to 1821 primes
+number of primes calculates by Thread 28, equals to 2107 primes
+number of primes calculates by Thread 29, equals to 2058 primes
+number of primes calculates by Thread 30, equals to 1759 primes
+number of primes calculates by Thread 31, equals to 1798 primes
+number of primes calculates by Thread 32, equals to 1815 primes
+number of primes calculates by Thread 33, equals to 1765 primes
+number of primes calculates by Thread 34, equals to 1905 primes
+number of primes calculates by Thread 35, equals to 1922 primes
+number of primes calculates by Thread 36, equals to 1763 primes
+number of primes calculates by Thread 37, equals to 1795 primes
+number of primes calculates by Thread 38, equals to 1896 primes
+number of primes calculates by Thread 39, equals to 1743 primes
+number of primes calculates by Thread 40, equals to 1876 primes
+number of primes calculates by Thread 41, equals to 1904 primes
+number of primes calculates by Thread 42, equals to 1932 primes
+number of primes calculates by Thread 43, equals to 1815 primes
+number of primes calculates by Thread 44, equals to 1719 primes
+number of primes calculates by Thread 45, equals to 1741 primes
+number of primes calculates by Thread 46, equals to 1889 primes
+number of primes calculates by Thread 47, equals to 1956 primes
+number of primes calculates by Thread 48, equals to 1804 primes
+number of primes calculates by Thread 49, equals to 1790 primes
+number of primes calculates by Thread 50, equals to 1867 primes
+number of primes calculates by Thread 51, equals to 1721 primes
+number of primes calculates by Thread 52, equals to 1828 primes
+number of primes calculates by Thread 53, equals to 1859 primes
+number of primes calculates by Thread 54, equals to 1821 primes
+number of primes calculates by Thread 55, equals to 1841 primes
+number of primes calculates by Thread 56, equals to 1745 primes
+number of primes calculates by Thread 57, equals to 1702 primes
+number of primes calculates by Thread 58, equals to 1873 primes
+number of primes calculates by Thread 59, equals to 1938 primes
+number of primes calculates by Thread 60, equals to 1815 primes
+number of primes calculates by Thread 61, equals to 1846 primes
+number of primes calculates by Thread 62, equals to 1753 primes
+number of primes calculates by Thread 63, equals to 1730 primes
+number of primes calculates by Thread 64, equals to 1885 primes
+number of primes calculates by Thread 65, equals to 1868 primes
+number of primes calculates by Thread 66, equals to 1793 primes
+number of primes calculates by Thread 67, equals to 1790 primes
+number of primes calculates by Thread 68, equals to 1751 primes
+number of primes calculates by Thread 69, equals to 1738 primes
+number of primes calculates by Thread 70, equals to 1876 primes
+number of primes calculates by Thread 71, equals to 1859 primes
+number of primes calculates by Thread 72, equals to 1810 primes
+number of primes calculates by Thread 73, equals to 1808 primes
+number of primes calculates by Thread 74, equals to 1799 primes
+number of primes calculates by Thread 75, equals to 1746 primes
+number of primes calculates by Thread 76, equals to 1909 primes
+number of primes calculates by Thread 77, equals to 1855 primes
+number of primes calculates by Thread 78, equals to 1833 primes
+number of primes calculates by Thread 79, equals to 1778 primes
+number of primes calculates by Thread 80, equals to 1727 primes
+number of primes calculates by Thread 81, equals to 1711 primes
+number of primes calculates by Thread 82, equals to 1904 primes
+number of primes calculates by Thread 83, equals to 1891 primes
+number of primes calculates by Thread 84, equals to 1842 primes
+number of primes calculates by Thread 85, equals to 1849 primes
+number of primes calculates by Thread 86, equals to 1735 primes
+number of primes calculates by Thread 87, equals to 1702 primes
+number of primes calculates by Thread 88, equals to 1880 primes
+number of primes calculates by Thread 89, equals to 1885 primes
+number of primes calculates by Thread 90, equals to 1865 primes
+number of primes calculates by Thread 91, equals to 1800 primes
+number of primes calculates by Thread 92, equals to 1673 primes
+number of primes calculates by Thread 93, equals to 1665 primes
+number of primes calculates by Thread 94, equals to 1942 primes
+number of primes calculates by Thread 95, equals to 1903 primes
+number of primes calculates by Thread 96, equals to 1804 primes
+number of primes calculates by Thread 97, equals to 1822 primes
+number of primes calculates by Thread 98, equals to 1775 primes
+number of primes calculates by Thread 99, equals to 1786 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.315000 seconds
+number of primes calculates by Thread 0, equals to 1806 primes
+number of primes calculates by Thread 1, equals to 1849 primes
+number of primes calculates by Thread 2, equals to 1875 primes
+number of primes calculates by Thread 3, equals to 1921 primes
+number of primes calculates by Thread 4, equals to 1832 primes
+number of primes calculates by Thread 5, equals to 1881 primes
+number of primes calculates by Thread 6, equals to 1790 primes
+number of primes calculates by Thread 7, equals to 1825 primes
+number of primes calculates by Thread 8, equals to 1764 primes
+number of primes calculates by Thread 9, equals to 1877 primes
+number of primes calculates by Thread 10, equals to 1947 primes
+number of primes calculates by Thread 11, equals to 1957 primes
+number of primes calculates by Thread 12, equals to 1830 primes
+number of primes calculates by Thread 13, equals to 1842 primes
+number of primes calculates by Thread 14, equals to 1723 primes
+number of primes calculates by Thread 15, equals to 1774 primes
+number of primes calculates by Thread 16, equals to 1885 primes
+number of primes calculates by Thread 17, equals to 1924 primes
+number of primes calculates by Thread 18, equals to 1849 primes
+number of primes calculates by Thread 19, equals to 1874 primes
+number of primes calculates by Thread 20, equals to 1771 primes
+number of primes calculates by Thread 21, equals to 1706 primes
+number of primes calculates by Thread 22, equals to 1918 primes
+number of primes calculates by Thread 23, equals to 1941 primes
+number of primes calculates by Thread 24, equals to 1861 primes
+number of primes calculates by Thread 25, equals to 1848 primes
+number of primes calculates by Thread 26, equals to 1857 primes
+number of primes calculates by Thread 27, equals to 1749 primes
+number of primes calculates by Thread 28, equals to 2064 primes
+number of primes calculates by Thread 29, equals to 1921 primes
+number of primes calculates by Thread 30, equals to 1975 primes
+number of primes calculates by Thread 31, equals to 1980 primes
+number of primes calculates by Thread 32, equals to 1674 primes
+number of primes calculates by Thread 33, equals to 1727 primes
+number of primes calculates by Thread 34, equals to 1946 primes
+number of primes calculates by Thread 35, equals to 1894 primes
+number of primes calculates by Thread 36, equals to 1887 primes
+number of primes calculates by Thread 37, equals to 1843 primes
+number of primes calculates by Thread 38, equals to 1671 primes
+number of primes calculates by Thread 39, equals to 1880 primes
+number of primes calculates by Thread 40, equals to 1848 primes
+number of primes calculates by Thread 41, equals to 1824 primes
+number of primes calculates by Thread 42, equals to 1858 primes
+number of primes calculates by Thread 43, equals to 1760 primes
+number of primes calculates by Thread 44, equals to 1721 primes
+number of primes calculates by Thread 45, equals to 1758 primes
+number of primes calculates by Thread 46, equals to 1935 primes
+number of primes calculates by Thread 47, equals to 1918 primes
+number of primes calculates by Thread 48, equals to 1885 primes
+number of primes calculates by Thread 49, equals to 1839 primes
+number of primes calculates by Thread 50, equals to 1760 primes
+number of primes calculates by Thread 51, equals to 1725 primes
+number of primes calculates by Thread 52, equals to 1920 primes
+number of primes calculates by Thread 53, equals to 1951 primes
+number of primes calculates by Thread 54, equals to 1861 primes
+number of primes calculates by Thread 55, equals to 1906 primes
+number of primes calculates by Thread 56, equals to 1715 primes
+number of primes calculates by Thread 57, equals to 1732 primes
+number of primes calculates by Thread 58, equals to 1855 primes
+number of primes calculates by Thread 59, equals to 1865 primes
+number of primes calculates by Thread 60, equals to 1874 primes
+number of primes calculates by Thread 61, equals to 1887 primes
+number of primes calculates by Thread 62, equals to 1751 primes
+number of primes calculates by Thread 63, equals to 1733 primes
+number of primes calculates by Thread 64, equals to 1865 primes
+number of primes calculates by Thread 65, equals to 1934 primes
+number of primes calculates by Thread 66, equals to 1883 primes
+number of primes calculates by Thread 67, equals to 1791 primes
+number of primes calculates by Thread 68, equals to 1769 primes
+number of primes calculates by Thread 69, equals to 1676 primes
+number of primes calculates by Thread 70, equals to 1841 primes
+number of primes calculates by Thread 71, equals to 1833 primes
+number of primes calculates by Thread 72, equals to 1845 primes
+number of primes calculates by Thread 73, equals to 1752 primes
+number of primes calculates by Thread 74, equals to 1800 primes
+number of primes calculates by Thread 75, equals to 1666 primes
+number of primes calculates by Thread 76, equals to 1841 primes
+number of primes calculates by Thread 77, equals to 1815 primes
+number of primes calculates by Thread 78, equals to 1787 primes
+number of primes calculates by Thread 79, equals to 1821 primes
+number of primes calculates by Thread 80, equals to 1698 primes
+number of primes calculates by Thread 81, equals to 1653 primes
+number of primes calculates by Thread 82, equals to 1930 primes
+number of primes calculates by Thread 83, equals to 1950 primes
+number of primes calculates by Thread 84, equals to 1812 primes
+number of primes calculates by Thread 85, equals to 1870 primes
+number of primes calculates by Thread 86, equals to 1677 primes
+number of primes calculates by Thread 87, equals to 1667 primes
+number of primes calculates by Thread 88, equals to 1936 primes
+number of primes calculates by Thread 89, equals to 1953 primes
+number of primes calculates by Thread 90, equals to 1854 primes
+number of primes calculates by Thread 91, equals to 1780 primes
+number of primes calculates by Thread 92, equals to 1727 primes
+number of primes calculates by Thread 93, equals to 1752 primes
+number of primes calculates by Thread 94, equals to 1841 primes
+number of primes calculates by Thread 95, equals to 1867 primes
+number of primes calculates by Thread 96, equals to 1847 primes
+number of primes calculates by Thread 97, equals to 1805 primes
+number of primes calculates by Thread 98, equals to 1744 primes
+number of primes calculates by Thread 99, equals to 1772 primes
+
+number of primes between 1 and 2500000: 183073
+number of seconds passed 55.309000 seconds
+number of primes calculates by Thread 0, equals to 1783 primes
+number of primes calculates by Thread 1, equals to 1843 primes
+number of primes calculates by Thread 2, equals to 1735 primes
+number of primes calculates by Thread 3, equals to 1953 primes
+number of primes calculates by Thread 4, equals to 1889 primes
+number of primes calculates by Thread 5, equals to 2006 primes
+number of primes calculates by Thread 6, equals to 1795 primes
+number of primes calculates by Thread 7, equals to 2002 primes
+number of primes calculates by Thread 8, equals to 1737 primes
+number of primes calculates by Thread 9, equals to 1737 primes
+number of primes calculates by Thread 10, equals to 1920 primes
+number of primes calculates by Thread 11, equals to 1886 primes
+number of primes calculates by Thread 12, equals to 1920 primes
+number of primes calculates by Thread 13, equals to 1858 primes
+number of primes calculates by Thread 14, equals to 1790 primes
+number of primes calculates by Thread 15, equals to 1789 primes
+number of primes calculates by Thread 16, equals to 1882 primes
+number of primes calculates by Thread 17, equals to 1923 primes
+number of primes calculates by Thread 18, equals to 1870 primes
+number of primes calculates by Thread 19, equals to 1761 primes
+number of primes calculates by Thread 20, equals to 1669 primes
+number of primes calculates by Thread 21, equals to 1720 primes
+number of primes calculates by Thread 22, equals to 1904 primes
+number of primes calculates by Thread 23, equals to 1876 primes
+number of primes calculates by Thread 24, equals to 1894 primes
+number of primes calculates by Thread 25, equals to 1765 primes
+number of primes calculates by Thread 26, equals to 1775 primes
+number of primes calculates by Thread 27, equals to 1712 primes
+number of primes calculates by Thread 28, equals to 1910 primes
+number of primes calculates by Thread 29, equals to 1831 primes
+number of primes calculates by Thread 30, equals to 1887 primes
+number of primes calculates by Thread 31, equals to 1807 primes
+number of primes calculates by Thread 32, equals to 1736 primes
+number of primes calculates by Thread 33, equals to 1742 primes
+number of primes calculates by Thread 34, equals to 1888 primes
+number of primes calculates by Thread 35, equals to 1891 primes
+number of primes calculates by Thread 36, equals to 1899 primes
+number of primes calculates by Thread 37, equals to 1885 primes
+number of primes calculates by Thread 38, equals to 1962 primes
+number of primes calculates by Thread 39, equals to 1694 primes
+number of primes calculates by Thread 40, equals to 1937 primes
+number of primes calculates by Thread 41, equals to 2144 primes
+number of primes calculates by Thread 42, equals to 1926 primes
+number of primes calculates by Thread 43, equals to 1851 primes
+number of primes calculates by Thread 44, equals to 1743 primes
+number of primes calculates by Thread 45, equals to 1863 primes
+number of primes calculates by Thread 46, equals to 1955 primes
+number of primes calculates by Thread 47, equals to 1946 primes
+number of primes calculates by Thread 48, equals to 1803 primes
+number of primes calculates by Thread 49, equals to 1822 primes
+number of primes calculates by Thread 50, equals to 1719 primes
+number of primes calculates by Thread 51, equals to 1783 primes
+number of primes calculates by Thread 52, equals to 1879 primes
+number of primes calculates by Thread 53, equals to 1919 primes
+number of primes calculates by Thread 54, equals to 1901 primes
+number of primes calculates by Thread 55, equals to 1851 primes
+number of primes calculates by Thread 56, equals to 1637 primes
+number of primes calculates by Thread 57, equals to 1728 primes
+number of primes calculates by Thread 58, equals to 1941 primes
+number of primes calculates by Thread 59, equals to 1834 primes
+number of primes calculates by Thread 60, equals to 1871 primes
+number of primes calculates by Thread 61, equals to 1914 primes
+number of primes calculates by Thread 62, equals to 1730 primes
+number of primes calculates by Thread 63, equals to 1726 primes
+number of primes calculates by Thread 64, equals to 1823 primes
+number of primes calculates by Thread 65, equals to 1835 primes
+number of primes calculates by Thread 66, equals to 1810 primes
+number of primes calculates by Thread 67, equals to 1817 primes
+number of primes calculates by Thread 68, equals to 1727 primes
+number of primes calculates by Thread 69, equals to 1756 primes
+number of primes calculates by Thread 70, equals to 1838 primes
+number of primes calculates by Thread 71, equals to 1826 primes
+number of primes calculates by Thread 72, equals to 1763 primes
+number of primes calculates by Thread 73, equals to 1899 primes
+number of primes calculates by Thread 74, equals to 1697 primes
+number of primes calculates by Thread 75, equals to 1763 primes
+number of primes calculates by Thread 76, equals to 1830 primes
+number of primes calculates by Thread 77, equals to 1872 primes
+number of primes calculates by Thread 78, equals to 1806 primes
+number of primes calculates by Thread 79, equals to 1913 primes
+number of primes calculates by Thread 80, equals to 1726 primes
+number of primes calculates by Thread 81, equals to 1763 primes
+number of primes calculates by Thread 82, equals to 1952 primes
+number of primes calculates by Thread 83, equals to 1884 primes
+number of primes calculates by Thread 84, equals to 1803 primes
+number of primes calculates by Thread 85, equals to 1807 primes
+number of primes calculates by Thread 86, equals to 1749 primes
+number of primes calculates by Thread 87, equals to 1751 primes
+number of primes calculates by Thread 88, equals to 1851 primes
+number of primes calculates by Thread 89, equals to 1873 primes
+number of primes calculates by Thread 90, equals to 1796 primes
+number of primes calculates by Thread 91, equals to 1793 primes
+number of primes calculates by Thread 92, equals to 1765 primes
+number of primes calculates by Thread 93, equals to 1749 primes
+number of primes calculates by Thread 94, equals to 1920 primes
+number of primes calculates by Thread 95, equals to 1878 primes
+number of primes calculates by Thread 96, equals to 1834 primes
+number of primes calculates by Thread 97, equals to 1840 primes
+number of primes calculates by Thread 98, equals to 1737 primes
+number of primes calculates by Thread 99, equals to 1678 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 210.917000 seconds
+number of primes calculates by Thread 0, equals to 3354 primes
+number of primes calculates by Thread 1, equals to 3568 primes
+number of primes calculates by Thread 2, equals to 3448 primes
+number of primes calculates by Thread 3, equals to 3489 primes
+number of primes calculates by Thread 4, equals to 3746 primes
+number of primes calculates by Thread 5, equals to 3740 primes
+number of primes calculates by Thread 6, equals to 3559 primes
+number of primes calculates by Thread 7, equals to 3484 primes
+number of primes calculates by Thread 8, equals to 3328 primes
+number of primes calculates by Thread 9, equals to 3330 primes
+number of primes calculates by Thread 10, equals to 3669 primes
+number of primes calculates by Thread 11, equals to 3651 primes
+number of primes calculates by Thread 12, equals to 3521 primes
+number of primes calculates by Thread 13, equals to 3579 primes
+number of primes calculates by Thread 14, equals to 3253 primes
+number of primes calculates by Thread 15, equals to 3420 primes
+number of primes calculates by Thread 16, equals to 3612 primes
+number of primes calculates by Thread 17, equals to 3647 primes
+number of primes calculates by Thread 18, equals to 3654 primes
+number of primes calculates by Thread 19, equals to 3575 primes
+number of primes calculates by Thread 20, equals to 3323 primes
+number of primes calculates by Thread 21, equals to 3333 primes
+number of primes calculates by Thread 22, equals to 3662 primes
+number of primes calculates by Thread 23, equals to 3692 primes
+number of primes calculates by Thread 24, equals to 3425 primes
+number of primes calculates by Thread 25, equals to 3546 primes
+number of primes calculates by Thread 26, equals to 3312 primes
+number of primes calculates by Thread 27, equals to 3410 primes
+number of primes calculates by Thread 28, equals to 3664 primes
+number of primes calculates by Thread 29, equals to 3735 primes
+number of primes calculates by Thread 30, equals to 3482 primes
+number of primes calculates by Thread 31, equals to 3594 primes
+number of primes calculates by Thread 32, equals to 3343 primes
+number of primes calculates by Thread 33, equals to 3261 primes
+number of primes calculates by Thread 34, equals to 3666 primes
+number of primes calculates by Thread 35, equals to 3655 primes
+number of primes calculates by Thread 36, equals to 3621 primes
+number of primes calculates by Thread 37, equals to 3568 primes
+number of primes calculates by Thread 38, equals to 3285 primes
+number of primes calculates by Thread 39, equals to 3294 primes
+number of primes calculates by Thread 40, equals to 3652 primes
+number of primes calculates by Thread 41, equals to 3585 primes
+number of primes calculates by Thread 42, equals to 3562 primes
+number of primes calculates by Thread 43, equals to 3558 primes
+number of primes calculates by Thread 44, equals to 3305 primes
+number of primes calculates by Thread 45, equals to 3275 primes
+number of primes calculates by Thread 46, equals to 3606 primes
+number of primes calculates by Thread 47, equals to 3595 primes
+number of primes calculates by Thread 48, equals to 3420 primes
+number of primes calculates by Thread 49, equals to 3516 primes
+number of primes calculates by Thread 50, equals to 3327 primes
+number of primes calculates by Thread 51, equals to 3251 primes
+number of primes calculates by Thread 52, equals to 3580 primes
+number of primes calculates by Thread 53, equals to 3652 primes
+number of primes calculates by Thread 54, equals to 3545 primes
+number of primes calculates by Thread 55, equals to 3456 primes
+number of primes calculates by Thread 56, equals to 3293 primes
+number of primes calculates by Thread 57, equals to 3316 primes
+number of primes calculates by Thread 58, equals to 3526 primes
+number of primes calculates by Thread 59, equals to 3537 primes
+number of primes calculates by Thread 60, equals to 3486 primes
+number of primes calculates by Thread 61, equals to 3487 primes
+number of primes calculates by Thread 62, equals to 3291 primes
+number of primes calculates by Thread 63, equals to 3301 primes
+number of primes calculates by Thread 64, equals to 3551 primes
+number of primes calculates by Thread 65, equals to 3582 primes
+number of primes calculates by Thread 66, equals to 3490 primes
+number of primes calculates by Thread 67, equals to 3472 primes
+number of primes calculates by Thread 68, equals to 3302 primes
+number of primes calculates by Thread 69, equals to 3290 primes
+number of primes calculates by Thread 70, equals to 3587 primes
+number of primes calculates by Thread 71, equals to 3550 primes
+number of primes calculates by Thread 72, equals to 3481 primes
+number of primes calculates by Thread 73, equals to 3532 primes
+number of primes calculates by Thread 74, equals to 3306 primes
+number of primes calculates by Thread 75, equals to 3298 primes
+number of primes calculates by Thread 76, equals to 3618 primes
+number of primes calculates by Thread 77, equals to 3625 primes
+number of primes calculates by Thread 78, equals to 3540 primes
+number of primes calculates by Thread 79, equals to 3527 primes
+number of primes calculates by Thread 80, equals to 3335 primes
+number of primes calculates by Thread 81, equals to 3339 primes
+number of primes calculates by Thread 82, equals to 3614 primes
+number of primes calculates by Thread 83, equals to 3607 primes
+number of primes calculates by Thread 84, equals to 3484 primes
+number of primes calculates by Thread 85, equals to 3475 primes
+number of primes calculates by Thread 86, equals to 3361 primes
+number of primes calculates by Thread 87, equals to 3318 primes
+number of primes calculates by Thread 88, equals to 3638 primes
+number of primes calculates by Thread 89, equals to 3590 primes
+number of primes calculates by Thread 90, equals to 3411 primes
+number of primes calculates by Thread 91, equals to 3499 primes
+number of primes calculates by Thread 92, equals to 3354 primes
+number of primes calculates by Thread 93, equals to 3352 primes
+number of primes calculates by Thread 94, equals to 3598 primes
+number of primes calculates by Thread 95, equals to 3612 primes
+number of primes calculates by Thread 96, equals to 3545 primes
+number of primes calculates by Thread 97, equals to 3441 primes
+number of primes calculates by Thread 98, equals to 3342 primes
+number of primes calculates by Thread 99, equals to 3228 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 210.916000 seconds
+number of primes calculates by Thread 0, equals to 3317 primes
+number of primes calculates by Thread 1, equals to 3527 primes
+number of primes calculates by Thread 2, equals to 3472 primes
+number of primes calculates by Thread 3, equals to 3551 primes
+number of primes calculates by Thread 4, equals to 3673 primes
+number of primes calculates by Thread 5, equals to 3749 primes
+number of primes calculates by Thread 6, equals to 3633 primes
+number of primes calculates by Thread 7, equals to 3531 primes
+number of primes calculates by Thread 8, equals to 3328 primes
+number of primes calculates by Thread 9, equals to 3240 primes
+number of primes calculates by Thread 10, equals to 3605 primes
+number of primes calculates by Thread 11, equals to 3592 primes
+number of primes calculates by Thread 12, equals to 3573 primes
+number of primes calculates by Thread 13, equals to 3565 primes
+number of primes calculates by Thread 14, equals to 3415 primes
+number of primes calculates by Thread 15, equals to 3300 primes
+number of primes calculates by Thread 16, equals to 3658 primes
+number of primes calculates by Thread 17, equals to 3671 primes
+number of primes calculates by Thread 18, equals to 3549 primes
+number of primes calculates by Thread 19, equals to 3523 primes
+number of primes calculates by Thread 20, equals to 3310 primes
+number of primes calculates by Thread 21, equals to 3282 primes
+number of primes calculates by Thread 22, equals to 3626 primes
+number of primes calculates by Thread 23, equals to 3601 primes
+number of primes calculates by Thread 24, equals to 3501 primes
+number of primes calculates by Thread 25, equals to 3518 primes
+number of primes calculates by Thread 26, equals to 3361 primes
+number of primes calculates by Thread 27, equals to 3342 primes
+number of primes calculates by Thread 28, equals to 3630 primes
+number of primes calculates by Thread 29, equals to 3624 primes
+number of primes calculates by Thread 30, equals to 3615 primes
+number of primes calculates by Thread 31, equals to 3476 primes
+number of primes calculates by Thread 32, equals to 3268 primes
+number of primes calculates by Thread 33, equals to 3323 primes
+number of primes calculates by Thread 34, equals to 3762 primes
+number of primes calculates by Thread 35, equals to 3632 primes
+number of primes calculates by Thread 36, equals to 3536 primes
+number of primes calculates by Thread 37, equals to 3489 primes
+number of primes calculates by Thread 38, equals to 3307 primes
+number of primes calculates by Thread 39, equals to 3294 primes
+number of primes calculates by Thread 40, equals to 3514 primes
+number of primes calculates by Thread 41, equals to 3629 primes
+number of primes calculates by Thread 42, equals to 3450 primes
+number of primes calculates by Thread 43, equals to 3515 primes
+number of primes calculates by Thread 44, equals to 3373 primes
+number of primes calculates by Thread 45, equals to 3371 primes
+number of primes calculates by Thread 46, equals to 3570 primes
+number of primes calculates by Thread 47, equals to 3623 primes
+number of primes calculates by Thread 48, equals to 3473 primes
+number of primes calculates by Thread 49, equals to 3577 primes
+number of primes calculates by Thread 50, equals to 3278 primes
+number of primes calculates by Thread 51, equals to 3313 primes
+number of primes calculates by Thread 52, equals to 3631 primes
+number of primes calculates by Thread 53, equals to 3601 primes
+number of primes calculates by Thread 54, equals to 3548 primes
+number of primes calculates by Thread 55, equals to 3569 primes
+number of primes calculates by Thread 56, equals to 3286 primes
+number of primes calculates by Thread 57, equals to 3312 primes
+number of primes calculates by Thread 58, equals to 3692 primes
+number of primes calculates by Thread 59, equals to 3598 primes
+number of primes calculates by Thread 60, equals to 3497 primes
+number of primes calculates by Thread 61, equals to 3566 primes
+number of primes calculates by Thread 62, equals to 3297 primes
+number of primes calculates by Thread 63, equals to 3298 primes
+number of primes calculates by Thread 64, equals to 3645 primes
+number of primes calculates by Thread 65, equals to 3656 primes
+number of primes calculates by Thread 66, equals to 3485 primes
+number of primes calculates by Thread 67, equals to 3470 primes
+number of primes calculates by Thread 68, equals to 3319 primes
+number of primes calculates by Thread 69, equals to 3324 primes
+number of primes calculates by Thread 70, equals to 3626 primes
+number of primes calculates by Thread 71, equals to 3585 primes
+number of primes calculates by Thread 72, equals to 3507 primes
+number of primes calculates by Thread 73, equals to 3467 primes
+number of primes calculates by Thread 74, equals to 3322 primes
+number of primes calculates by Thread 75, equals to 3286 primes
+number of primes calculates by Thread 76, equals to 3556 primes
+number of primes calculates by Thread 77, equals to 3568 primes
+number of primes calculates by Thread 78, equals to 3513 primes
+number of primes calculates by Thread 79, equals to 3559 primes
+number of primes calculates by Thread 80, equals to 3279 primes
+number of primes calculates by Thread 81, equals to 3311 primes
+number of primes calculates by Thread 82, equals to 3563 primes
+number of primes calculates by Thread 83, equals to 3567 primes
+number of primes calculates by Thread 84, equals to 3443 primes
+number of primes calculates by Thread 85, equals to 3553 primes
+number of primes calculates by Thread 86, equals to 3352 primes
+number of primes calculates by Thread 87, equals to 3292 primes
+number of primes calculates by Thread 88, equals to 3544 primes
+number of primes calculates by Thread 89, equals to 3578 primes
+number of primes calculates by Thread 90, equals to 3566 primes
+number of primes calculates by Thread 91, equals to 3450 primes
+number of primes calculates by Thread 92, equals to 3318 primes
+number of primes calculates by Thread 93, equals to 3318 primes
+number of primes calculates by Thread 94, equals to 3654 primes
+number of primes calculates by Thread 95, equals to 3620 primes
+number of primes calculates by Thread 96, equals to 3520 primes
+number of primes calculates by Thread 97, equals to 3496 primes
+number of primes calculates by Thread 98, equals to 3298 primes
+number of primes calculates by Thread 99, equals to 3354 primes
+
+number of primes between 1 and 5000000: 348514
+number of seconds passed 211.655000 seconds
+number of primes calculates by Thread 0, equals to 3350 primes
+number of primes calculates by Thread 1, equals to 3644 primes
+number of primes calculates by Thread 2, equals to 3412 primes
+number of primes calculates by Thread 3, equals to 3379 primes
+number of primes calculates by Thread 4, equals to 3803 primes
+number of primes calculates by Thread 5, equals to 3778 primes
+number of primes calculates by Thread 6, equals to 3509 primes
+number of primes calculates by Thread 7, equals to 3781 primes
+number of primes calculates by Thread 8, equals to 3256 primes
+number of primes calculates by Thread 9, equals to 3352 primes
+number of primes calculates by Thread 10, equals to 3615 primes
+number of primes calculates by Thread 11, equals to 3584 primes
+number of primes calculates by Thread 12, equals to 3633 primes
+number of primes calculates by Thread 13, equals to 3583 primes
+number of primes calculates by Thread 14, equals to 3318 primes
+number of primes calculates by Thread 15, equals to 3288 primes
+number of primes calculates by Thread 16, equals to 3618 primes
+number of primes calculates by Thread 17, equals to 3546 primes
+number of primes calculates by Thread 18, equals to 3648 primes
+number of primes calculates by Thread 19, equals to 3456 primes
+number of primes calculates by Thread 20, equals to 3299 primes
+number of primes calculates by Thread 21, equals to 3322 primes
+number of primes calculates by Thread 22, equals to 3559 primes
+number of primes calculates by Thread 23, equals to 3570 primes
+number of primes calculates by Thread 24, equals to 3510 primes
+number of primes calculates by Thread 25, equals to 3506 primes
+number of primes calculates by Thread 26, equals to 3336 primes
+number of primes calculates by Thread 27, equals to 3323 primes
+number of primes calculates by Thread 28, equals to 3604 primes
+number of primes calculates by Thread 29, equals to 3800 primes
+number of primes calculates by Thread 30, equals to 3526 primes
+number of primes calculates by Thread 31, equals to 3487 primes
+number of primes calculates by Thread 32, equals to 3407 primes
+number of primes calculates by Thread 33, equals to 3330 primes
+number of primes calculates by Thread 34, equals to 3596 primes
+number of primes calculates by Thread 35, equals to 3591 primes
+number of primes calculates by Thread 36, equals to 3484 primes
+number of primes calculates by Thread 37, equals to 3699 primes
+number of primes calculates by Thread 38, equals to 3379 primes
+number of primes calculates by Thread 39, equals to 3276 primes
+number of primes calculates by Thread 40, equals to 3550 primes
+number of primes calculates by Thread 41, equals to 3554 primes
+number of primes calculates by Thread 42, equals to 3472 primes
+number of primes calculates by Thread 43, equals to 3664 primes
+number of primes calculates by Thread 44, equals to 3322 primes
+number of primes calculates by Thread 45, equals to 3341 primes
+number of primes calculates by Thread 46, equals to 3540 primes
+number of primes calculates by Thread 47, equals to 3607 primes
+number of primes calculates by Thread 48, equals to 3498 primes
+number of primes calculates by Thread 49, equals to 3530 primes
+number of primes calculates by Thread 50, equals to 3330 primes
+number of primes calculates by Thread 51, equals to 3371 primes
+number of primes calculates by Thread 52, equals to 3588 primes
+number of primes calculates by Thread 53, equals to 3603 primes
+number of primes calculates by Thread 54, equals to 3514 primes
+number of primes calculates by Thread 55, equals to 3478 primes
+number of primes calculates by Thread 56, equals to 3351 primes
+number of primes calculates by Thread 57, equals to 3321 primes
+number of primes calculates by Thread 58, equals to 3570 primes
+number of primes calculates by Thread 59, equals to 3590 primes
+number of primes calculates by Thread 60, equals to 3507 primes
+number of primes calculates by Thread 61, equals to 3487 primes
+number of primes calculates by Thread 62, equals to 3382 primes
+number of primes calculates by Thread 63, equals to 3333 primes
+number of primes calculates by Thread 64, equals to 3600 primes
+number of primes calculates by Thread 65, equals to 3580 primes
+number of primes calculates by Thread 66, equals to 3520 primes
+number of primes calculates by Thread 67, equals to 3487 primes
+number of primes calculates by Thread 68, equals to 3309 primes
+number of primes calculates by Thread 69, equals to 3357 primes
+number of primes calculates by Thread 70, equals to 3614 primes
+number of primes calculates by Thread 71, equals to 3557 primes
+number of primes calculates by Thread 72, equals to 3528 primes
+number of primes calculates by Thread 73, equals to 3502 primes
+number of primes calculates by Thread 74, equals to 3294 primes
+number of primes calculates by Thread 75, equals to 3301 primes
+number of primes calculates by Thread 76, equals to 3598 primes
+number of primes calculates by Thread 77, equals to 3583 primes
+number of primes calculates by Thread 78, equals to 3499 primes
+number of primes calculates by Thread 79, equals to 3549 primes
+number of primes calculates by Thread 80, equals to 3230 primes
+number of primes calculates by Thread 81, equals to 3320 primes
+number of primes calculates by Thread 82, equals to 3588 primes
+number of primes calculates by Thread 83, equals to 3593 primes
+number of primes calculates by Thread 84, equals to 3567 primes
+number of primes calculates by Thread 85, equals to 3519 primes
+number of primes calculates by Thread 86, equals to 3275 primes
+number of primes calculates by Thread 87, equals to 3259 primes
+number of primes calculates by Thread 88, equals to 3593 primes
+number of primes calculates by Thread 89, equals to 3659 primes
+number of primes calculates by Thread 90, equals to 3557 primes
+number of primes calculates by Thread 91, equals to 3518 primes
+number of primes calculates by Thread 92, equals to 3241 primes
+number of primes calculates by Thread 93, equals to 3259 primes
+number of primes calculates by Thread 94, equals to 3559 primes
+number of primes calculates by Thread 95, equals to 3584 primes
+number of primes calculates by Thread 96, equals to 3538 primes
+number of primes calculates by Thread 97, equals to 3578 primes
+number of primes calculates by Thread 98, equals to 3265 primes
+number of primes calculates by Thread 99, equals to 3274 primes
+
+2:10:44.988160

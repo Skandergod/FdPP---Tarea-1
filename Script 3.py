@@ -94,19 +94,19 @@ for i in range(3):
 print("20 Hilos")
 
 for i in range(3):
-    output = subprocess.check_output(['a.exe', '1', '1000000', '20'], cwd='D:\Workbench\FdPP\Tarea 1')
+    output = subprocess.check_output(['a.exe', '1', '1000000', '20'])
     output = str(output,'utf-8')
     output.rstrip()
     print(output)
 
 for i in range(3):
-    output = subprocess.check_output(['a.exe', '1', '2500000', '20'], cwd='D:\Workbench\FdPP\Tarea 1')
+    output = subprocess.check_output(['a.exe', '1', '2500000', '20'])
     output = str(output,'utf-8')
     output.rstrip()
     print(output)
 
 for i in range(3):
-    output = subprocess.check_output(['a.exe', '1', '5000000', '20'], cwd='D:\Workbench\FdPP\Tarea 1')
+    output = subprocess.check_output(['a.exe', '1', '5000000', '20'])
     output = str(output,'utf-8')
     output.rstrip()
     print(output)
@@ -114,19 +114,19 @@ for i in range(3):
 print("100 Hilos")
 
 for i in range(3):
-    output = subprocess.check_output(['a.exe', '1', '1000000', '100'], cwd='D:\Workbench\FdPP\Tarea 1')
+    output = subprocess.check_output(['a.exe', '1', '1000000', '100'])
     output = str(output,'utf-8')
     output.rstrip()
     print(output)
 
 for i in range(3):
-    output = subprocess.check_output(['a.exe', '1', '2500000', '100'], cwd='D:\Workbench\FdPP\Tarea 1')
+    output = subprocess.check_output(['a.exe', '1', '2500000', '100'])
     output = str(output,'utf-8')
     output.rstrip()
     print(output)
 
 for i in range(3):
-    output = subprocess.check_output(['a.exe', '1', '5000000', '100'], cwd='D:\Workbench\FdPP\Tarea 1')
+    output = subprocess.check_output(['a.exe', '1', '5000000', '100'])
     output = str(output,'utf-8')
     output.rstrip()
     print(output)

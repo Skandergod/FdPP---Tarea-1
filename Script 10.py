@@ -9,7 +9,7 @@ sys.stdout = f
 
 startTime = datetime.now()
 
-subprocess.check_output(['g++', 'e7 - Seccion Critica.c', '-fopenmp'], cwd='D:\Workbench\FdPP\Tarea 1')
+subprocess.check_output(['g++', 'e7 - Seccion Critica.c', '-fopenmp'])
 print('e7 - Seccion Critica.c')
 
 for i in range(3):
