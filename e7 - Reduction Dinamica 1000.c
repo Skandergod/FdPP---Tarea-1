@@ -40,10 +40,11 @@ inicio = omp_get_wtime();
      }
 fin = omp_get_wtime();
 
-   printf("number of primes between %d and %d: %d\n",start,end,gPrimesFound);
-   printf("number of seconds passed %lf seconds\n",fin - inicio);
-   for (int i = 0; i < omp_get_max_threads(); i++)
+  printf("number of primes between %d and %d: %d\n",start,end,gPrimesFound);
+  printf("number of seconds passed %lf seconds\n",fin - inicio);
+  for (int i = 0; i < omp_get_max_threads(); i++)
   {
-    printf("number of primes calculates by Thread %d, equals to %d primes\n", i, ThreadCalculus[i]);
+    printf("%d\n", ThreadCalculus[i]);
   }
+
 }
