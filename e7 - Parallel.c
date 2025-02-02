@@ -1,12 +1,14 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <omp.h> 
+#include <omp.h>
+#include <math.h>
  
 int *ThreadCalculus;
 int Thread_id;
 
 int testForPrime(long p)  //slow prime test 
 { long i=0;
+  p = pow(p,1/2);
   for(i=2; i<p; i++) {
       if ((p%i)==0) return 0;
    }
