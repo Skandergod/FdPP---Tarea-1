@@ -1,108 +1,108 @@
-e7 - Seccion Critica Estatica.c
+e7 - Reduction Estatica.c
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.049000 seconds
-500000
-500000
-
-number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.045000 seconds
+number of seconds passed 0.028000 seconds
 500000
 500000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.047000 seconds
+number of seconds passed 0.024000 seconds
+500000
+500000
+
+number of primes between 1 and 1000000: 1000000
+number of seconds passed 0.030000 seconds
 500000
 500000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.114000 seconds
+number of seconds passed 0.073000 seconds
 1250000
 1250000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.116000 seconds
+number of seconds passed 0.079000 seconds
 1250000
 1250000
 
 number of primes between 1 and 2500000: 2500000
+number of seconds passed 0.082000 seconds
+1250000
+1250000
+
+number of primes between 1 and 5000000: 5000000
 number of seconds passed 0.117000 seconds
-1250000
-1250000
-
-number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.232000 seconds
 2500000
 2500000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.235000 seconds
+number of seconds passed 0.148000 seconds
 2500000
 2500000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.225000 seconds
+number of seconds passed 0.124000 seconds
 2500000
 2500000
 
 4 Hilos
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.047000 seconds
+number of seconds passed 0.024000 seconds
 250000
 250000
 250000
 250000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.046000 seconds
+number of seconds passed 0.031000 seconds
 250000
 250000
 250000
 250000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.044000 seconds
+number of seconds passed 0.026000 seconds
 250000
 250000
 250000
 250000
 
 number of primes between 1 and 2500000: 2500000
+number of seconds passed 0.066000 seconds
+625000
+625000
+625000
+625000
+
+number of primes between 1 and 2500000: 2500000
+number of seconds passed 0.084000 seconds
+625000
+625000
+625000
+625000
+
+number of primes between 1 and 2500000: 2500000
+number of seconds passed 0.060000 seconds
+625000
+625000
+625000
+625000
+
+number of primes between 1 and 5000000: 5000000
 number of seconds passed 0.121000 seconds
-625000
-625000
-625000
-625000
-
-number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.119000 seconds
-625000
-625000
-625000
-625000
-
-number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.119000 seconds
-625000
-625000
-625000
-625000
-
-number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.240000 seconds
 1250000
 1250000
 1250000
 1250000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.234000 seconds
+number of seconds passed 0.157000 seconds
 1250000
 1250000
 1250000
 1250000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.238000 seconds
+number of seconds passed 0.144000 seconds
 1250000
 1250000
 1250000
@@ -110,7 +110,7 @@ number of seconds passed 0.238000 seconds
 
 8 Hilos
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.074000 seconds
+number of seconds passed 0.024000 seconds
 125000
 125000
 125000
@@ -121,7 +121,7 @@ number of seconds passed 0.074000 seconds
 125000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.068000 seconds
+number of seconds passed 0.017000 seconds
 125000
 125000
 125000
@@ -132,7 +132,7 @@ number of seconds passed 0.068000 seconds
 125000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.062000 seconds
+number of seconds passed 0.026000 seconds
 125000
 125000
 125000
@@ -143,7 +143,7 @@ number of seconds passed 0.062000 seconds
 125000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.157000 seconds
+number of seconds passed 0.066000 seconds
 312504
 312504
 312504
@@ -154,7 +154,7 @@ number of seconds passed 0.157000 seconds
 312496
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.151000 seconds
+number of seconds passed 0.036000 seconds
 312504
 312504
 312504
@@ -165,7 +165,7 @@ number of seconds passed 0.151000 seconds
 312496
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.148000 seconds
+number of seconds passed 0.063000 seconds
 312504
 312504
 312504
@@ -176,7 +176,7 @@ number of seconds passed 0.148000 seconds
 312496
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.301000 seconds
+number of seconds passed 0.065000 seconds
 625000
 625000
 625000
@@ -187,7 +187,7 @@ number of seconds passed 0.301000 seconds
 625000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.303000 seconds
+number of seconds passed 0.121000 seconds
 625000
 625000
 625000
@@ -198,7 +198,7 @@ number of seconds passed 0.303000 seconds
 625000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.300000 seconds
+number of seconds passed 0.119000 seconds
 625000
 625000
 625000
@@ -210,7 +210,7 @@ number of seconds passed 0.300000 seconds
 
 16 Hilos
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.065000 seconds
+number of seconds passed 0.018000 seconds
 62504
 62504
 62504
@@ -229,7 +229,7 @@ number of seconds passed 0.065000 seconds
 62496
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.057000 seconds
+number of seconds passed 0.023000 seconds
 62504
 62504
 62504
@@ -248,7 +248,7 @@ number of seconds passed 0.057000 seconds
 62496
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.064000 seconds
+number of seconds passed 0.017000 seconds
 62504
 62504
 62504
@@ -267,7 +267,7 @@ number of seconds passed 0.064000 seconds
 62496
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.142000 seconds
+number of seconds passed 0.048000 seconds
 156256
 156256
 156256
@@ -286,7 +286,7 @@ number of seconds passed 0.142000 seconds
 156248
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.165000 seconds
+number of seconds passed 0.042000 seconds
 156256
 156256
 156256
@@ -305,7 +305,7 @@ number of seconds passed 0.165000 seconds
 156248
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.162000 seconds
+number of seconds passed 0.041000 seconds
 156256
 156256
 156256
@@ -324,7 +324,7 @@ number of seconds passed 0.162000 seconds
 156248
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.322000 seconds
+number of seconds passed 0.105000 seconds
 312504
 312504
 312504
@@ -343,7 +343,7 @@ number of seconds passed 0.322000 seconds
 312496
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.311000 seconds
+number of seconds passed 0.112000 seconds
 312504
 312504
 312504
@@ -362,7 +362,7 @@ number of seconds passed 0.311000 seconds
 312496
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.325000 seconds
+number of seconds passed 0.107000 seconds
 312504
 312504
 312504
@@ -382,7 +382,7 @@ number of seconds passed 0.325000 seconds
 
 20 Hilos
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.075000 seconds
+number of seconds passed 0.020000 seconds
 50000
 50000
 50000
@@ -405,7 +405,7 @@ number of seconds passed 0.075000 seconds
 50000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.061000 seconds
+number of seconds passed 0.018000 seconds
 50000
 50000
 50000
@@ -428,7 +428,7 @@ number of seconds passed 0.061000 seconds
 50000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.080000 seconds
+number of seconds passed 0.018000 seconds
 50000
 50000
 50000
@@ -451,7 +451,7 @@ number of seconds passed 0.080000 seconds
 50000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.191000 seconds
+number of seconds passed 0.044000 seconds
 125000
 125000
 125000
@@ -474,7 +474,7 @@ number of seconds passed 0.191000 seconds
 125000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.174000 seconds
+number of seconds passed 0.047000 seconds
 125000
 125000
 125000
@@ -497,7 +497,7 @@ number of seconds passed 0.174000 seconds
 125000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.191000 seconds
+number of seconds passed 0.048000 seconds
 125000
 125000
 125000
@@ -520,7 +520,7 @@ number of seconds passed 0.191000 seconds
 125000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.344000 seconds
+number of seconds passed 0.083000 seconds
 250000
 250000
 250000
@@ -543,7 +543,7 @@ number of seconds passed 0.344000 seconds
 250000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.362000 seconds
+number of seconds passed 0.077000 seconds
 250000
 250000
 250000
@@ -566,7 +566,7 @@ number of seconds passed 0.362000 seconds
 250000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.340000 seconds
+number of seconds passed 0.087000 seconds
 250000
 250000
 250000
@@ -590,7 +590,7 @@ number of seconds passed 0.340000 seconds
 
 100 Hilos
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.104000 seconds
+number of seconds passed 0.011000 seconds
 10000
 10000
 10000
@@ -693,7 +693,7 @@ number of seconds passed 0.104000 seconds
 10000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.106000 seconds
+number of seconds passed 0.011000 seconds
 10000
 10000
 10000
@@ -796,7 +796,7 @@ number of seconds passed 0.106000 seconds
 10000
 
 number of primes between 1 and 1000000: 1000000
-number of seconds passed 0.099000 seconds
+number of seconds passed 0.012000 seconds
 10000
 10000
 10000
@@ -899,7 +899,7 @@ number of seconds passed 0.099000 seconds
 10000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.231000 seconds
+number of seconds passed 0.026000 seconds
 25000
 25000
 25000
@@ -1002,7 +1002,7 @@ number of seconds passed 0.231000 seconds
 25000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.259000 seconds
+number of seconds passed 0.024000 seconds
 25000
 25000
 25000
@@ -1105,7 +1105,7 @@ number of seconds passed 0.259000 seconds
 25000
 
 number of primes between 1 and 2500000: 2500000
-number of seconds passed 0.264000 seconds
+number of seconds passed 0.025000 seconds
 25000
 25000
 25000
@@ -1208,7 +1208,7 @@ number of seconds passed 0.264000 seconds
 25000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.494000 seconds
+number of seconds passed 0.039000 seconds
 50000
 50000
 50000
@@ -1311,7 +1311,7 @@ number of seconds passed 0.494000 seconds
 50000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.462000 seconds
+number of seconds passed 0.039000 seconds
 50000
 50000
 50000
@@ -1414,7 +1414,7 @@ number of seconds passed 0.462000 seconds
 50000
 
 number of primes between 1 and 5000000: 5000000
-number of seconds passed 0.494000 seconds
+number of seconds passed 0.045000 seconds
 50000
 50000
 50000
@@ -1516,4 +1516,4 @@ number of seconds passed 0.494000 seconds
 50000
 50000
 
-0:00:10.576687
+0:00:03.823941
