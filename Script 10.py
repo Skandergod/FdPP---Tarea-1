@@ -4,13 +4,13 @@ import sys
 from datetime import datetime
 
 orig_stdout = sys.stdout
-f = open('Salida - Seccion Critica.txt', 'w')
+f = open('Salida - Reduction Estatica.txt', 'w')
 sys.stdout = f
 
 startTime = datetime.now()
 
-subprocess.check_output(['g++', 'e7 - Seccion Critica.c', '-fopenmp'])
-print('e7 - Seccion Critica.c')
+subprocess.check_output(['g++', 'e7 - Reduction Estatica.c', '-fopenmp'])
+print('e7 - Reduction Estatica.c')
 
 for i in range(3):
     output = subprocess.check_output(['a.exe', '1', '1000000', '2'])
