@@ -7,8 +7,8 @@ int *ThreadCalculus;
 
 int testForPrime(long p)  //slow prime test 
 { long i=0;
-p = pow(p,1/2);
-  for(i=2; i<p; i++) {
+  int n = sqrt(p)+1;
+  for(i=2; i<=n; i++) {
       if ((p%i)==0) return 0;
    }
   return 1;
